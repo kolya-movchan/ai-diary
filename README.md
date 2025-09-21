@@ -107,12 +107,6 @@ Transform voice recordings of personal reflections into structured notes.
 | Accessibility     | Requires sitting, typing    | Works anywhere, anytime   |
 | Language Barriers | Challenging for non-natives | Natural speech processing |
 
-## 🎉 Success Stories
-
-> _"I went from journaling once a week to daily entries. The AI Diary workflow saved me hours while helping me maintain better self-reflection habits."_
-
-> _"As someone who thinks better out loud, this workflow is a game-changer. My voice messages become beautiful diary entries without any effort."_
-
 ## 🚀 Getting Started
 
 1. **Set up n8n** with the provided workflow.json
